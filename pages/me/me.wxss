@@ -1,0 +1,30 @@
+/**index.wxss**/
+.whole{
+  width:100%;
+  height:100%;
+  background: url(http://img17.3lian.com/d/file/201701/07/3ed72d401b07089f47141ae02bb15f97.jpg);
+  background-size: cover;
+}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+    display:flex;
+    justify-content:center;
+text-align:center;}
+

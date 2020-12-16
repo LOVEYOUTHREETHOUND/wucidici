@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/suggestion/suggestion",
+    "pages/regeocoding/regeocoding",
+    "pages/geocoding/geocoding",
+    "pages/search/search",
+    "pages/me/me",
+    "pages/users/users",
+    "pages/look/look",
+    "pages/release/release",
+    "pages/set/set",
+    "pages/help/help",
+    "pages/map/map",
+    "pages/fail/fail1",
+    "pages/fail/fail2",
+    "pages/fail/fail3",
+    "pages/fail/fail4",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2E8B57",
+    "navigationBarTitleText": "耳机在召唤",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ddd"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#4db900",
+    "backgroundColor": "#fbfbfd",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/suggestion/suggestion",
+        "text": "主页",
+        "iconPath": "img/phone (1).png",
+        "selectedIconPath": "img/phone.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "text": "定位",
+        "iconPath": "img/earth (1).png",
+        "selectedIconPath": "img/earth.png"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "店铺",
+        "iconPath": "img/shop (1).png",
+        "selectedIconPath": "img/shop.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "img/boy (1).png",
+        "selectedIconPath": "img/boy.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

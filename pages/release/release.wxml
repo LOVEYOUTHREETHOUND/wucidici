@@ -1,0 +1,12 @@
+<view>
+  <image class="p2" src="https://www.hlpretty.net/upfile/201909031405002912.jpg"></image>
+</view>
+<button open-type="contact" type="warn" >contact</button>
+
+<view>
+  <image class="p1" src="https://img.zsykjm.com/2020/12/15/faf76cd55cfc9c8e9f686181085fdda9.png"></image>
+</view>
+<view class="container">
+  <text>将失物信息分享给朋友</text>
+</view>
+<button class="b1" open-type="share" type="primary">分享</button>

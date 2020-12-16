@@ -1,0 +1,4 @@
+/* pages/fail/fail3.wxss */
+.t1{
+  color:red;}
+.t2{color:blue}

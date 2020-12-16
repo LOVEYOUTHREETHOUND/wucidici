@@ -1,0 +1,67 @@
+<view class="section">
+  <input placeholder="输入关键字"  type="text"   bindinput="bindKeyInput"/>
+</view>
+<view class="sug_info">
+  <text>{{sugData}}</text>
+</view>
+
+<view >
+  <swiper class="p1"  indicator-dots="true" autoplay="true">
+    <swiper-item >
+      <image  class="p" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=615718909,2790240876&fm=11&gp=0.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image  class="p" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4279368521,2313044076&fm=11&gp=0.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image  class="p" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1220626177,4098456820&fm=11&gp=0.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
+
+<view class='grid'>
+    <view class='itemgrids'>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/a4fdfe12-e71d-403f-a39f-56664c574547_origin.svg'></image>
+            <view class='itemgrid_label'>欢迎</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/5ee40dde-90a1-4abe-b1f7-1008a18c90b3_origin.svg'></image>
+            <view class='itemgrid_label'>您</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/659288b3-48d1-4904-9478-6b750b10435d_origin.svg'></image>
+            <view class='itemgrid_label'>来到</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/840c1d6e-3fb2-4ea3-b340-fc6ce9df35b3_origin.svg'></image>
+            <view class='itemgrid_label'>蓝牙</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://www.bing.com/th/id/OGC.aaf04847d6e978b52a38f7487448b95d?pid=1.7&rurl=https%3a%2f%2fpic1.zhimg.com%2f50%2fv2-aaf04847d6e978b52a38f7487448b95d_hd.gif%3fsource%3d1940ef5c&ehk=7KLAXP84E91KOVAR6Dr5yQLCgYjha%2bLB2Fjp8gAqfT0%3d'></image>
+            <view class='itemgrid_label'>耳机</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/d0c6525f-f3e1-4d1b-aee0-8a9d0ddbc20b_origin.svg'></image>
+            <view class='itemgrid_label'>的</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/9a45ec83-55e9-405d-9b96-fc9e4cf23563_origin.svg'></image>
+            <view class='itemgrid_label'>丰富</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/8c4d0ba7-c58c-45e6-9cf9-132c698f23cf_origin.svg'></image>
+            <view class='itemgrid_label'>美丽</view>
+        </navigator>
+        <navigator url='' class='itemgrid' hovor-class='itemgrid_active'>
+            <image class='itemgrid_icon' src='https://iconfont.alicdn.com/s/48fd38a1-8947-4362-b9b8-697422dd5fc8_origin.svg'></image>
+            <view class='itemgrid_label'>世界</view>
+        </navigator>
+    </view>
+</view>
+
+
+
+  
+
+

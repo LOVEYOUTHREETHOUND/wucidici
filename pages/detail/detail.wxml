@@ -1,0 +1,32 @@
+<view class="card-picture">
+  <image class="picture" src="https://pic.ulecdn.com/pic/user_800134182/product/prd20180604/27416186809b5552_p750x750_xl.jpg"></image>
+</view>
+
+<view class="card card-shadow">
+          <view class="card-body">
+          <view class="card-body-image">
+              <image class="image" src="https://img.zsykjm.com/2020/12/14/-.png" mode="scaleToFill"/>
+          </view>
+          <view class="card-body-desc">
+              <view class="card-body-desc-hd">丢失时间</view>
+              <view class="card-body-desc-bd">2020年12月12日</view>
+          </view>
+          </view>
+         
+ </view>
+ <view class="card card-shadow1">
+          <view class="card-body1">
+          <view class="card-body-image1">
+              <image class="image1" src="https://img.zsykjm.com/2020/12/14/-.png" mode="scaleToFill"/>
+          </view>
+          <view class="card-body-desc1">
+              <view class="card-body-desc-hd1">丢失地点</view>
+              <view class="card-body-desc-bd1">教学楼</view>
+          </view>
+          </view>
+         
+ </view>
+
+ <view>
+   <button class="phone"  bindtap="calling" >联系失主</button>
+ </view>

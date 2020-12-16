@@ -1,0 +1,29 @@
+<!--pages/fail/fail.wxml-->
+<text class="t2">contact交流收发信息</text>
+<view style="white-space:pre-wrap"></view>
+<text class="t1">1.如何查看交流信息  </text>
+
+ <text>   <view style="white-space:pre-wrap"></view>
+聊天记录保存在对应的会话框中,您可以打开对话框即可查看发送过来的消息,包括文字、图片、语音、视频等等,系统会为您保留72小时(消息从对方发送时间开始计算),72小时内未登录接收,该消息将无法再看到。
+
+  </text>
+<text class="t1">2.聊天消息如何撤回</text>
+   <text> <view style="white-space:pre-wrap"></view>
+您可打开会话框，长按已发送的信息>>>选择【撤回】，即可撤回2分钟内已发送的消息。
+  
+  </text>
+<text class="t1">3.如何发送图片</text>
+<text> <view style="white-space:pre-wrap"></view>
+点击聊天框旁的加号键>>>点击相册>>>在本地相册里选择想要发送的图片
+  
+  </text>
+  <text class="t1">4.如何发送表情</text>
+<text> <view style="white-space:pre-wrap"></view>
+点击聊天框旁的表情键>>>点击>>>在选择想要发送的表情
+  
+  </text>
+
+
+
+
+

@@ -1,0 +1,53 @@
+<view class="b1 float">
+  <view class="head float">
+    <open-data type="userAvatarUrl"></open-data>
+  </view>
+  <view class="name float">
+    <open-data type="userNickName"></open-data>
+  </view>
+</view>
+<block wx:for="{{userListInfo}}">
+  <view class="b2">
+    <view class="b3">
+      <image src="{{item.icon}}"></image>
+    </view>
+   <view class="b4">
+     <view>{{item.text}}</view>
+   </view>
+    <view class="listimage" style="background-image:url(../../img/向右箭头.png);"></view>
+  </view>
+</block>
+
+<view class="b2">
+  <view class="c1">
+    <image src="https://img.zsykjm.com/2020/12/14/d7b62c2a699dd680781d2c33c9c5029b.png"></image>
+  </view>
+  <view class="look" bindtap="look">信息发布</view>
+  <view class="listimage" style="background-image:url(https://img.zsykjm.com/2020/12/14/13c0f5e35de3ecfbe3f3e8df679e970d.png);"></view>
+</view>
+
+<view class="b3">
+  <view class="c2">
+    <image src="https://img.zsykjm.com/2020/12/14/2a9e1b6512850d2e0e53e5721f3cbdd1.png"></image>
+  </view>
+  <view class="release" bindtap="release">分享交流</view>
+  <view class="listimage" style="background-image:url(https://img.zsykjm.com/2020/12/14/13c0f5e35de3ecfbe3f3e8df679e970d.png);"></view>
+</view>
+
+<view class="b4">
+  <view class="c3">
+    <image src="https://img.zsykjm.com/2020/12/14/0e141b5fb026de821b52cc0b19f8d1d0.png"></image>
+  </view>
+  <view class="set" bindtap="set">设置</view>
+  <view class="listimage" style="background-image:url(https://img.zsykjm.com/2020/12/14/13c0f5e35de3ecfbe3f3e8df679e970d.png);"></view>
+</view>
+
+<view class="b5">
+  <view class="c4">
+    <image src="https://img.zsykjm.com/2020/12/14/98daa8a18920d0bc27053386b08e4ddf.png"></image>
+  </view>
+  <view class="help" bindtap="help">帮助与说明</view>
+  <view class="listimage" style="background-image:url(https://img.zsykjm.com/2020/12/14/13c0f5e35de3ecfbe3f3e8df679e970d.png);"></view>
+</view> 
+
+

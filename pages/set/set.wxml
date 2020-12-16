@@ -1,0 +1,20 @@
+<!--pages/set/set.wxml-->
+<view class='container'>
+  <view class="text-content">账号安全</view>
+  <view class="text-content">隐私设置</view>
+  <view class="text-content">勿扰模式</view>
+  <view class="text-content">消息提醒</view>
+  <view class="text-content">青少年模式</view>
+  <view class="text-content">历史设置</view>
+  <view class="text-content">清理缓存</view>
+  <view class="text-content">上网安全</view>
+  <view class="text-content">网络检测</view>
+</view>
+
+<view style="white-space:pre-wrap">\n
+
+</view>
+<button class="b1" open-type="openSetting" type="primary"plain>授权管理</button>
+<view style="white-space:pre-wrap">\n</view>
+<button class="b1" open-type="feedback"type="primary"plain>反馈意见</button>
+

@@ -1,0 +1,16 @@
+<!--pages/help/help.wxml-->
+<view class="container">
+  <text>热点问题</text>
+</view>
+<button bindtap="gotofail1" type="primary"plain>分享信息给朋友失败怎么办？</button>
+<view style="white-space:pre-wrap">\n</view>
+<button bindtap="gotofail2" type="primary"plain>contact交流收发信息</button>
+<view style="white-space:pre-wrap">\n</view>
+<button bindtap="gotofail3" type="primary"plain>定位信息无法显示怎么办？</button>
+<view style="white-space:pre-wrap">\n
+
+</view>
+<view class="container">
+  <text>说明</text>
+</view>
+<button bindtap="gotofail4" type="warn"plain>服务条款</button>

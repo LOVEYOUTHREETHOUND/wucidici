@@ -1,0 +1,6 @@
+/* pages/fail/fail.wxss */
+.t1{
+  color: blue;
+}
+.t2{
+  color:red;}

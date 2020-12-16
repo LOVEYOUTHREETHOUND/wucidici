@@ -1,0 +1,66 @@
+<view class="card card-shadow">
+          <view class="card-head">
+          <view class="card-head-title">
+              <view class="card-head-icon"><text class="iconfont .icon-wo"></text></view>
+              <view class="card-head-title-label">三水</view>
+          </view>
+          <view class="card-head-tag">
+              <view class="tag">丢失</view>
+          </view>
+          </view>
+          <view class="card-body">
+          <view class="card-body-image">
+              <image class="image" src="https://pic.ulecdn.com/pic/user_800134182/product/prd20180604/27416186809b5552_p750x750_xl.jpg" mode="scaleToFill"/>
+          </view>
+          <view class="card-body-desc">
+              <view class="card-body-desc-hd">丢失地点</view>
+              <view class="card-body-desc-bd">教学楼</view>
+          </view>
+          </view>
+          <view class="card-foot">
+          <view class="card-foot-reward">
+              <view class="card-foot-reward-label">电话：</view>
+              <view class="card-foot-reward-number">123456789</view>
+              <view class="card-foot-reward-icon">
+                <text class="iconfont .icon-dianhua"></text>
+              </view>
+          </view>
+          <view class="card-foot-button">
+            <button class="button-style" size="mini" bindtap="gotodetail">详情</button>
+          </view>
+          </view>
+</view>
+<view class="card card-shadow1">
+          <view class="card-head1">
+          <view class="card-head-title1">
+              <view class="card-head-icon1"><text class="iconfont .icon-wo"></text></view>
+              <view class="card-head-title-label1">三水</view>
+          </view>
+          <view class="card-head-tag1">
+              <view class="tag1">招领</view>
+          </view>
+          </view>
+          <view class="card-body1">
+          <view class="card-body-image1">
+              <image class="image1" src="https://imgservice.suning.cn/uimg1/b2c/image/4UHFvHURFg4t56MZuTdGnA.png_800w_800h_4e" mode="scaleToFill"/>
+          </view>
+          <view class="card-body-desc1">
+              <view class="card-body-desc-hd1">捡拾地点</view>
+              <view class="card-body-desc-bd1">女生宿舍s6</view>
+          </view>
+          </view>
+          <view class="card-foot1">
+          <view class="card-foot-reward1">
+              <view class="card-foot-reward-label1">电话：</view>
+              <view class="card-foot-reward-number1">123456789</view>
+              <view class="card-foot-reward-icon1">
+                <text class="iconfont .icon-dianhua"></text>
+              </view>
+          </view>
+          <view class="card-foot-button1">
+            <button class="button-style1" size="mini" >详情</button>
+          </view>
+          </view>
+</view>
+
+
